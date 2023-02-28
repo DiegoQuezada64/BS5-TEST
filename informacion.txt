@@ -1,0 +1,8 @@
+Esta es una pagina no funcional de noticias
+solo se trabajo en el front, se implementara una base de datos, paginas
+
+Utilizar la seccion de "Noticias" y "Articulo" el cual se llega seleccionando la tarjeta
+que tenga el boton de "continuar leyendo"
+
+Pagina "Inicio" solo se utilizo para probar fuentes de texto, "Otros > Información"
+aun no se ha trabajado en el.
